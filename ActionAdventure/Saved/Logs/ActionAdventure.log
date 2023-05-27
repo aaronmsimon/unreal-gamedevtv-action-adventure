@@ -1602,3 +1602,257 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.27-22.14.13:326][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.05.27-22.14.13:339][493]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2023.05.27-22.14.13:358][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.20.30:185][434]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.27-22.21.31:396][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.21.33:067][924]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.22.07:632][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.22.30:671][331]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.24.40:333][492]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.27-22.24.40:342][492]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.27-22.24.40:347][493]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.27-22.24.42:577][761]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.05.27-22.24.42:578][761]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.27-22.24.47:466][323]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.27-22.24.47:471][323]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.27-22.24.47:487][325]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.27-22.24.49:774][600]LogContentBrowser: Attempting asset rename: NewMaterial -> Lava
+[2023.05.27-22.24.49:776][600]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.27-22.24.53:304][ 21]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Lava.Lava
+[2023.05.27-22.24.53:320][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.27-22.24.53:320][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.27-22.24.53:431][ 21]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.24.53:431][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.27-22.24.53:431][ 21]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.24.53:436][ 21]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.27-22.24.53:439][ 21]LogViewport: Scene viewport resized to 488x559, mode Windowed.
+[2023.05.27-22.24.53:501][ 22]LogViewport: Scene viewport resized to 488x555, mode Windowed.
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: ================================================
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: RAM used: 17.24 KiB of 6.40 GiB budget. Usage: 0.00%
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.42 s
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Job life time (pending + execution): average 0.43 s, max 0.43
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.43 s
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Average processing rate: 2.32 jobs/sec
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Total thread time: 0.212 s
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Total thread preprocess time: 0.013 s
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Percentage time preprocessing: 6.02%
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Effective parallelization: 0.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2023.05.27-22.24.53:909][ 69]LogShaderCompilers: Display: ================================================
+[2023.05.27-22.24.54:025][ 83]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.05.27-22.24.54:025][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.24.54:025][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.27-22.24.54:025][ 83]MaterialEditorStats: Shader Count: 3
+[2023.05.27-22.24.54:125][ 95]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.05.27-22.24.54:125][ 95]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.05.27-22.24.54:125][ 95]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.27-22.24.54:125][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.27-22.24.54:125][ 95]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.25.11:808][176]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.25.11:808][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.27-22.25.11:808][176]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.25.12:326][233]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.05.27-22.25.12:326][233]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.05.27-22.25.12:326][233]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.27-22.25.12:326][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.27-22.25.12:326][233]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.25.14:441][476]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.25.14:441][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.14:441][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.14:441][476]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.25.14:834][521]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.27-22.25.14:834][521]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.14:834][521]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.14:834][521]MaterialEditorStats: Shader Count: 2
+[2023.05.27-22.25.14:934][533]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.27-22.25.14:934][533]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.05.27-22.25.14:934][533]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.27-22.25.14:934][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.14:934][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.14:934][533]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.25.18:901][997]LogMaterialEditor: Applying material Lava
+[2023.05.27-22.25.18:950][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.27-22.25.19:423][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.05.27-22.25.19:428][997]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.27-22.25.19:428][997]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.19:428][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.19:428][997]MaterialEditorStats: Shader Count: 2
+[2023.05.27-22.25.20:653][141]LogSlate: Window 'Lava' being destroyed
+[2023.05.27-22.25.20:657][141]LogSlate: Window 'Lava' being destroyed
+[2023.05.27-22.25.20:693][141]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-22.25.20:693][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-22.25.39:147][329]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Lava.Lava
+[2023.05.27-22.25.39:148][329]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.27-22.25.39:148][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.27-22.25.39:218][329]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.25.39:218][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.39:218][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.39:218][329]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.25.39:222][329]LogViewport: Scene viewport resized to 489x581, mode Windowed.
+[2023.05.27-22.25.39:248][330]LogViewport: Scene viewport resized to 489x573, mode Windowed.
+[2023.05.27-22.25.39:272][331]LogViewport: Scene viewport resized to 489x564, mode Windowed.
+[2023.05.27-22.25.39:285][332]LogViewport: Scene viewport resized to 489x560, mode Windowed.
+[2023.05.27-22.25.39:302][333]LogViewport: Scene viewport resized to 489x558, mode Windowed.
+[2023.05.27-22.25.39:593][367]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.27-22.25.39:593][367]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.39:593][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.39:593][367]MaterialEditorStats: Shader Count: 2
+[2023.05.27-22.25.39:701][380]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.27-22.25.39:701][380]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.05.27-22.25.39:701][380]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.27-22.25.39:701][380]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.39:701][380]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.39:701][380]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.25.53:048][966]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.25.53:048][966]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.53:048][966]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.53:048][966]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.25.53:074][968]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.27-22.25.53:074][968]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.05.27-22.25.53:074][968]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.27-22.25.53:074][968]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.53:074][968]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.53:074][968]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.25.57:061][444]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.25.57:061][444]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.57:061][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.57:061][444]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.25.57:086][446]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.27-22.25.57:086][446]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.05.27-22.25.57:086][446]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.27-22.25.57:086][446]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.57:086][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.57:086][446]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.25.58:683][635]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.25.58:683][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.58:683][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.58:683][635]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.25.58:713][637]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.27-22.25.58:713][637]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.05.27-22.25.58:713][637]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.27-22.25.58:713][637]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.25.58:713][637]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.25.58:713][637]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.26.20:957][289]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-22.26.20:957][289]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.26.20:957][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.26.20:957][289]MaterialEditorStats: Shader Count: 0
+[2023.05.27-22.26.20:985][291]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.27-22.26.20:985][291]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.05.27-22.26.20:985][291]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.27-22.26.20:985][291]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.27-22.26.20:985][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.27-22.26.20:985][291]MaterialEditorStats: Shader Count: 4
+[2023.05.27-22.26.23:345][444]LogSlate: Window 'Message' being destroyed
+[2023.05.27-22.26.23:348][444]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/Lava.Lava
+(Selecting 'No' will cause all changes to be lost!)
+[2023.05.27-22.26.23:354][444]LogSlate: Window 'Lava' being destroyed
+[2023.05.27-22.26.23:355][444]LogSlate: Window 'Lava' being destroyed
+[2023.05.27-22.26.23:393][444]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-22.26.23:393][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-22.26.50:188][624]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.27-22.26.51:645][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.27-22.27.00:367][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.27.39:598][190]Cmd: DELETE
+[2023.05.27-22.27.39:598][190]Cmd: ACTOR DELETE
+[2023.05.27-22.27.39:601][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.27-22.27.39:603][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.27-22.27.39:603][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.27-22.27.39:610][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.27-22.27.39:612][190]LogEditorActor: Deleted 3 Actors (0.012 secs)
+[2023.05.27-22.27.47:988][175]Cmd: TRANSACTION UNDO
+[2023.05.27-22.27.47:988][175]LogEditorTransaction: Undo Move Elements
+[2023.05.27-22.27.48:016][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.28.15:416][323]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.28.22:504][146]Cmd: TRANSACTION UNDO
+[2023.05.27-22.28.22:504][146]LogEditorTransaction: Undo Move Elements
+[2023.05.27-22.28.22:535][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.29.06:666][254]Cmd: TRANSACTION UNDO
+[2023.05.27-22.29.06:666][254]LogEditorTransaction: Undo Move Elements
+[2023.05.27-22.29.06:702][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.27-22.29.30:260][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.27-22.29.30:294][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.27-22.29.30:301][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.05.27-22.29.30:306][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.05.27-22.29.30:309][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2023.05.27-22.29.30:309][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/XWFFRCIJ8QK4NRO30ALA6J9B49DC134A2335BD6CB1C7BDA23A4A81.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2023.05.27-22.29.30:311][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW
+[2023.05.27-22.29.30:312][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/7JQC72ZY37QM4IT43WD5CW26FA7E564A9F8BF527545A807D59AF70.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset'
+[2023.05.27-22.29.30:313][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2
+[2023.05.27-22.29.30:314][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/O43ETCZTFMLWWH1CJ941H2C71F1B9B4BDEE52F595F569328B42340.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset'
+[2023.05.27-22.29.30:316][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR
+[2023.05.27-22.29.30:316][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/5PI42YRDC8HSSG6BVV2GRRC2AC46744E8B184D61F67EAAEAD83F24.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset'
+[2023.05.27-22.29.30:318][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96
+[2023.05.27-22.29.30:319][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/IM858T68EBXCBX1T2FNR963B59DEF84FD4FAE416D1D88FB1B4F80B.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset'
+[2023.05.27-22.29.30:321][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2023.05.27-22.29.30:321][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/BEYC27T14FHBU6LF2F60RR0603E3234BCA20A9E4F08690D712A174.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2023.05.27-22.29.30:323][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF
+[2023.05.27-22.29.30:324][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/K2YM0JIRZ78IHGM8W2QBAFC9CF4B5C46842EDCD5794486C22ED972.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset'
+[2023.05.27-22.29.30:326][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I
+[2023.05.27-22.29.30:326][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/9H7TKAXH9DD8KI3TIXGI2I8FB74DC04BE3EF1176D8B0B2E5703E2D.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset'
+[2023.05.27-22.29.30:328][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2023.05.27-22.29.30:329][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/OTJMGDDXDV5TI7982YKZ5PCBB8EDF14B091721329768B5FCB50E8D.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2023.05.27-22.29.30:330][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF
+[2023.05.27-22.29.30:331][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/UUYHDUFQAXTRRN4RVOPIUFEB385AB54B7DA3EC1805A994744E06BC.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset'
+[2023.05.27-22.29.30:333][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO
+[2023.05.27-22.29.30:333][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/9VVR39MG0K7W5GQIEFE7SO9F6402934EFB417065F2CAB6AE04BA7A.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset'
+[2023.05.27-22.29.30:335][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2023.05.27-22.29.30:336][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/NG2R9BPZVA7ZDN0Z4VSTG600EE12784534A51629987EB2A9427926.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2023.05.27-22.29.30:337][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C
+[2023.05.27-22.29.30:338][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/6B9RJI3FDPCETRKXUXCQ4CCE9C0739419C4FE21B3D42B81E7B02E4.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset'
+[2023.05.27-22.29.30:340][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL
+[2023.05.27-22.29.30:340][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/H8YL2PPHZPBTI74SUD0RNL8280859940F0CEF546FC4FB681ADB9D4.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset'
+[2023.05.27-22.29.30:342][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2023.05.27-22.29.30:343][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/Q7Y1URWWFS0TXGWUTO3S61234BAB684AEA38C1A31216BD5242A169.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2023.05.27-22.29.30:345][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ
+[2023.05.27-22.29.30:345][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/6LXV4Y6DE3LUT705XNU4DZF973ABD34FB735211AEF51B195C2249C.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset'
+[2023.05.27-22.29.30:347][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8
+[2023.05.27-22.29.30:347][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/BBOCKSZY1GVHTFRX0PR0O8BEE703814A0D48B28E3AB998E2599497.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset'
+[2023.05.27-22.29.30:349][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04
+[2023.05.27-22.29.30:350][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/1IKKDYS7RULH8FRYRPPF046DE1655F462E28D6CE041F84E9798582.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset'
+[2023.05.27-22.29.30:352][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y
+[2023.05.27-22.29.30:352][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/9BWDWCNL7OZT2HTML9LK1Y3BC9BCEF4D9ADB1DFA1E4793B604C806.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset'
+[2023.05.27-22.29.30:354][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN
+[2023.05.27-22.29.30:355][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/8RB55FM1HBEUVO4IOQC4YN37C8EAA64217368614677EA4CB3BEE37.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset'
+[2023.05.27-22.29.30:356][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR
+[2023.05.27-22.29.30:357][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/NMHOKL5LGQDOAAG00FUMZRA18936D544616524BC93DD911000E782.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset'
+[2023.05.27-22.29.30:359][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2023.05.27-22.29.30:359][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/SWSI13675DVYIZ0N4NF7Y37BBB544146DA5AFD939665A74D2B95F4.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2023.05.27-22.29.30:361][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2023.05.27-22.29.30:362][986]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/GK06JAEJ82TQ0GA2QB0DJG02FF14824662E036F1F0C3954870EBCC.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2023.05.27-22.29.30:386][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 841 ms)
+[2023.05.27-22.29.30:388][986]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_24
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_34
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_15
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_14
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_22
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_25
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2023.05.27-22.29.30:388][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_9
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_23
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_16
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_32
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_13
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_21
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2023.05.27-22.29.30:389][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
