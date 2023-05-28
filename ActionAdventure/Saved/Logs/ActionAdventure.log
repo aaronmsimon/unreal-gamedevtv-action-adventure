@@ -2235,3 +2235,333 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.28-00.13.05:802][546]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/Lava_Auto2
 [2023.05.28-00.13.05:802][546]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/Lava_Auto2B11773E74A1DC9561015219A346D294D.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/Autosaves/Game/Materials/Lava_Auto2.uasset'
 [2023.05.28-00.13.05:802][546]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.05.28-00.14.57:934][104]LogSlate: Window 'Plugins' being destroyed
+[2023.05.28-00.14.57:937][104]LogSlate: Window 'Plugins' being destroyed
+[2023.05.28-00.14.57:937][104]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.05.28-00.16.16:932][953]LogCEFBrowser: CEF GPU acceleration enabled
+[2023.05.28-00.17.38:519][282]LogSlate: Window 'Login' being destroyed
+[2023.05.28-01.09.47:414][ 25]LogDerivedDataCache: C:/Users/Aaron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 605 files in 1020 folders with total size 19 MiB.
+[2023.05.28-02.02.18:658][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmthaf1g/T_Quarry_Gravel_Ground_tmthaf1g_8K_N.T_Quarry_Gravel_Ground_tmthaf1g_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.18:689][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmthaf1g/T_QuarryGravelGround_tmthaf1g_8K_ORDp.T_QuarryGravelGround_tmthaf1g_8K_ORDp (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.19:248][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmthaf1g/T_Quarry_Gravel_Ground_tmthaf1g_8K_D.T_Quarry_Gravel_Ground_tmthaf1g_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.20:697][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmukdhbew/T_Quarry_Gravel_Ground_tmukdhbew_8K_N.T_Quarry_Gravel_Ground_tmukdhbew_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.20:741][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmukdhbew/T_QuarryGravelGround_tmukdhbew_8K_ORDp.T_QuarryGravelGround_tmukdhbew_8K_ORDp (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.21:014][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmukdhbew/T_Quarry_Gravel_Ground_tmukdhbew_8K_D.T_Quarry_Gravel_Ground_tmukdhbew_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.22:337][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmtlcfnfw/T_Quarry_Gravel_Ground_tmtlcfnfw_8K_N.T_Quarry_Gravel_Ground_tmtlcfnfw_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.22:553][324]LogStaticMesh: Display: Building static mesh S_Limestone_Rocks_ubxaajpda_high...
+[2023.05.28-02.02.22:730][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmtlcfnfw/T_QuarryGravelGround_tmtlcfnfw_8K_ORDp.T_QuarryGravelGround_tmtlcfnfw_8K_ORDp (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.22:841][324]LogStaticMesh: Display: Building static mesh S_Limestone_Rocks_ubvsaf3da_high...
+[2023.05.28-02.02.23:277][324]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Quarry_Gravel_Ground_tmtlcfnfw/T_Quarry_Gravel_Ground_tmtlcfnfw_8K_D.T_Quarry_Gravel_Ground_tmtlcfnfw_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.24:350][324]LogStaticMesh: Display: Building static mesh S_Limestone_Rocks_ubqwdheda_high...
+[2023.05.28-02.02.26:913][324]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubxaajpda/T_LimestoneRocks_ubxaajpda_8K_DpR.T_LimestoneRocks_ubxaajpda_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.27:536][324]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubvsaf3da/T_Limestone_Rocks_ubvsaf3da_8K_D.T_Limestone_Rocks_ubvsaf3da_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.30:110][324]LogStaticMesh: Display: Building static mesh S_Quarry_Cliff_ubjxdipda_high...
+[2023.05.28-02.02.30:496][324]LogStaticMesh: Display: Building static mesh S_Quarry_Cliff_ubjvbczda_high...
+[2023.05.28-02.02.30:547][324]LogStaticMesh: Display: Building static mesh S_Quarry_Cliff_ubjuddqda_high...
+[2023.05.28-02.02.30:552][324]LogStaticMesh: Display: Building static mesh S_Quarry_Cliff_ubhubhyda_high...
+[2023.05.28-02.02.30:552][324]LogStaticMesh: Display: Building static mesh S_Limestone_Rocks_ub3sddsda_high...
+[2023.05.28-02.02.31:625][326]LogDirectoryWatcher: Display: A directory notification failed for '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/' due to buffer overflow. Attemping another request...
+[2023.05.28-02.02.31:626][326]LogDirectoryWatcher: Display: A directory notification failed for '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/' due to buffer overflow. Attemping another request...
+[2023.05.28-02.02.31:626][326]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Content/' due to buffer overflow. Attemping another request...
+[2023.05.28-02.02.31:925][327]LogStaticMesh: Display: Building static mesh S_Quarry_Cliff_uchpbg3fa_high...
+[2023.05.28-02.02.32:349][329]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubvsaf3da/T_LimestoneRocks_ubvsaf3da_8K_DpR.T_LimestoneRocks_ubvsaf3da_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.33:271][331]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubxaajpda/T_Limestone_Rocks_ubxaajpda_8K_N.T_Limestone_Rocks_ubxaajpda_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.34:523][335]LogStaticMesh: Adjacency [1.32s], tris: 998727, UVs 1
+[2023.05.28-02.02.35:773][339]LogStaticMesh: Clustering [1.25s]. Ratio: 1.016660
+[2023.05.28-02.02.35:820][339]LogStaticMesh: Leaves [0.05s]
+[2023.05.28-02.02.37:245][343]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubxaajpda/T_Limestone_Rocks_ubxaajpda_8K_D.T_Limestone_Rocks_ubxaajpda_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.39:199][349]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubqwdheda/T_Limestone_Rocks_ubqwdheda_8K_D.T_Limestone_Rocks_ubqwdheda_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.43:344][362]LogStaticMesh: Adjacency [2.68s], tris: 1998744, UVs 1
+[2023.05.28-02.02.43:701][363]LogStaticMesh: Adjacency [2.38s], tris: 1998012, UVs 1
+[2023.05.28-02.02.43:845][363]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubqwdheda/T_LimestoneRocks_ubqwdheda_8K_DpR.T_LimestoneRocks_ubqwdheda_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.44:456][365]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubqwdheda/T_Limestone_Rocks_ubqwdheda_8K_N.T_Limestone_Rocks_ubqwdheda_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.46:210][370]LogStaticMesh: Clustering [2.87s]. Ratio: 1.016714
+[2023.05.28-02.02.46:962][414]LogStaticMesh: Leaves [0.75s]
+[2023.05.28-02.02.47:255][442]LogStaticMesh: Clustering [3.55s]. Ratio: 1.016912
+[2023.05.28-02.02.47:781][485]LogStaticMesh: Leaves [0.53s]
+[2023.05.28-02.02.49:048][626]LogStaticMesh: Reduce [13.22s]
+[2023.05.28-02.02.50:014][735]LogStaticMesh: Fallback 0/1 [0.97s], num tris: 23194
+[2023.05.28-02.02.51:010][845]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.28-02.02.51:015][845]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.28-02.02.51:196][864]LogStaticMesh: ConstrainClusters:
+[2023.05.28-02.02.51:196][864]LogStaticMesh:   Input: 16256 Clusters, 2047007 Triangles and 1339852 Vertices
+[2023.05.28-02.02.51:196][864]LogStaticMesh:   Output without splits: 16256 Clusters, 2047007 Triangles and 1394166 Vertices
+[2023.05.28-02.02.51:196][864]LogStaticMesh:   Output with splits: 16256 Clusters, 2047007 Triangles and 1394166 Vertices
+[2023.05.28-02.02.51:255][871]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16256, Slow Path Clusters: 0, 1 Material: 16256, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-02.02.51:467][892]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjxdipda/T_Quarry_Cliff_ubjxdipda_8K_D.T_Quarry_Cliff_ubjxdipda_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.51:950][946]LogStaticMesh: Adjacency [4.42s], tris: 1998143, UVs 1
+[2023.05.28-02.02.52:551][ 15]LogStaticMesh: WritePages:
+[2023.05.28-02.02.52:551][ 15]LogStaticMesh:   Root: GPU size: 31368 bytes. 1 Pages. 31368.000 bytes per page (95.728% utilization).
+[2023.05.28-02.02.52:551][ 15]LogStaticMesh:   Streaming: GPU size: 16467604 bytes. 127 Pages (121 with relative encoding). 129666.172 bytes per page (98.927% utilization).
+[2023.05.28-02.02.52:551][ 15]LogStaticMesh:   Page data disk size: 13078676 bytes. Fixup data size: 95752 bytes.
+[2023.05.28-02.02.52:551][ 15]LogStaticMesh:   Total GPU size: 16498972 bytes, Total disk size: 13174428 bytes.
+[2023.05.28-02.02.52:554][ 15]LogStaticMesh: Encode [2.54s]
+[2023.05.28-02.02.52:554][ 15]LogStaticMesh: Nanite build [16.73s]
+
+[2023.05.28-02.02.52:572][ 17]LogStaticMesh: Adjacency [4.30s], tris: 1998388, UVs 1
+[2023.05.28-02.02.52:686][ 31]LogStaticMesh: Built static mesh [28.34s] /Game/Megascans/3D_Assets/Limestone_Rocks_ubqwdheda/S_Limestone_Rocks_ubqwdheda_high.S_Limestone_Rocks_ubqwdheda_high
+[2023.05.28-02.02.53:114][ 78]LogStaticMesh: Adjacency [4.53s], tris: 1998143, UVs 1
+[2023.05.28-02.02.53:195][ 85]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjxdipda/T_Quarry_Cliff_ubjxdipda_8K_N.T_Quarry_Cliff_ubjxdipda_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.02.54:436][179]LogSlate: Window 'Bridge' being destroyed
+[2023.05.28-02.02.54:439][179]LogSlate: Window 'Bridge' being destroyed
+[2023.05.28-02.02.54:439][179]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2023.05.28-02.02.54:439][179]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.2/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/collections?category=environment&category=natural&category=limestone-quarry.
+[2023.05.28-02.02.54:763][180]LogStaticMesh: Clustering [2.81s]. Ratio: 1.017039
+[2023.05.28-02.02.55:559][203]LogStaticMesh: Leaves [0.80s]
+[2023.05.28-02.02.56:659][251]LogStaticMesh: Adjacency [5.98s], tris: 1998767, UVs 1
+[2023.05.28-02.02.56:759][251]LogStaticMesh: Clustering [3.65s]. Ratio: 1.016975
+[2023.05.28-02.02.56:771][251]LogStaticMesh: Clustering [4.20s]. Ratio: 1.016653
+[2023.05.28-02.02.57:320][269]LogStaticMesh: Leaves [0.55s]
+[2023.05.28-02.02.57:323][270]LogStaticMesh: Leaves [0.56s]
+[2023.05.28-02.02.58:788][427]LogStaticMesh: Clustering [2.13s]. Ratio: 1.016906
+[2023.05.28-02.02.59:322][492]LogStaticMesh: Leaves [0.53s]
+[2023.05.28-02.03.00:968][656]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjxdipda/T_QuarryCliff_ubjxdipda_8K_DpR.T_QuarryCliff_ubjxdipda_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.02:627][841]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ubvsaf3da/T_Limestone_Rocks_ubvsaf3da_8K_N.T_Limestone_Rocks_ubvsaf3da_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.04:500][ 57]LogStaticMesh: Adjacency [6.68s], tris: 2998462, UVs 1
+[2023.05.28-02.03.05:219][140]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjvbczda/T_Quarry_Cliff_ubjvbczda_8K_D.T_Quarry_Cliff_ubjvbczda_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.07:889][415]LogStaticMesh: Clustering [3.39s]. Ratio: 1.016947
+[2023.05.28-02.03.08:742][517]LogStaticMesh: Leaves [0.85s]
+[2023.05.28-02.03.12:588][947]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjvbczda/T_Quarry_Cliff_ubjvbczda_8K_N.T_Quarry_Cliff_ubjvbczda_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.14:105][ 30]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjvbczda/T_QuarryCliff_ubjvbczda_8K_DpR.T_QuarryCliff_ubjvbczda_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.15:969][ 35]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjuddqda/T_Quarry_Cliff_ubjuddqda_8K_D.T_Quarry_Cliff_ubjuddqda_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.18:478][ 43]LogStaticMesh: Adjacency [8.49s], tris: 3996715, UVs 1
+[2023.05.28-02.03.22:109][120]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjuddqda/T_QuarryCliff_ubjuddqda_8K_DpR.T_QuarryCliff_ubjuddqda_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.22:562][121]LogStaticMesh: Clustering [4.08s]. Ratio: 1.017102
+[2023.05.28-02.03.22:797][122]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubjuddqda/T_Quarry_Cliff_ubjuddqda_8K_N.T_Quarry_Cliff_ubjuddqda_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.23:757][125]LogStaticMesh: Leaves [1.19s]
+[2023.05.28-02.03.25:021][129]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubhubhyda/T_Quarry_Cliff_ubhubhyda_8K_D.T_Quarry_Cliff_ubhubhyda_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.31:185][775]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubhubhyda/T_Quarry_Cliff_ubhubhyda_8K_N.T_Quarry_Cliff_ubhubhyda_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.33:687][ 75]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_ubhubhyda/T_QuarryCliff_ubhubhyda_8K_DpR.T_QuarryCliff_ubhubhyda_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.35:625][260]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ub3sddsda/T_Limestone_Rocks_ub3sddsda_8K_N.T_Limestone_Rocks_ub3sddsda_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.39:137][370]LogStaticMesh: Reduce [52.16s]
+[2023.05.28-02.03.40:874][376]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ub3sddsda/T_LimestoneRocks_ub3sddsda_8K_DpR.T_LimestoneRocks_ub3sddsda_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.41:276][377]LogStaticMesh: Reduce [53.48s]
+[2023.05.28-02.03.41:279][377]LogStaticMesh: Fallback 0/1 [2.14s], num tris: 41847
+[2023.05.28-02.03.41:518][378]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_uchpbg3fa/T_Quarry_Cliff_uchpbg3fa_8K_D.T_Quarry_Cliff_uchpbg3fa_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.42:283][380]LogStaticMesh: Fallback 0/1 [1.01s], num tris: 22500
+[2023.05.28-02.03.43:715][384]LogStaticMesh: ConstrainClusters:
+[2023.05.28-02.03.43:715][384]LogStaticMesh:   Input: 32547 Clusters, 4098168 Triangles and 2679197 Vertices
+[2023.05.28-02.03.43:715][384]LogStaticMesh:   Output without splits: 32547 Clusters, 4098168 Triangles and 2793321 Vertices
+[2023.05.28-02.03.43:715][384]LogStaticMesh:   Output with splits: 32547 Clusters, 4098168 Triangles and 2793321 Vertices
+[2023.05.28-02.03.43:805][384]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 32547, Slow Path Clusters: 0, 1 Material: 32547, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-02.03.44:623][387]LogStaticMesh: ConstrainClusters:
+[2023.05.28-02.03.44:623][387]LogStaticMesh:   Input: 32565 Clusters, 4099984 Triangles and 2665440 Vertices
+[2023.05.28-02.03.44:623][387]LogStaticMesh:   Output without splits: 32565 Clusters, 4099984 Triangles and 2777600 Vertices
+[2023.05.28-02.03.44:623][387]LogStaticMesh:   Output with splits: 32565 Clusters, 4099984 Triangles and 2777600 Vertices
+[2023.05.28-02.03.44:727][387]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 32565, Slow Path Clusters: 0, 1 Material: 32565, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-02.03.45:412][389]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.05.28-02.03.45:460][389]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_uchpbg3fa/T_Quarry_Cliff_uchpbg3fa_8K_N.T_Quarry_Cliff_uchpbg3fa_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2023.05.28-02.03.45:487][389]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16140
+[2023.05.28-02.03.45:787][390]LogStaticMesh: WritePages:
+[2023.05.28-02.03.45:787][390]LogStaticMesh:   Root: GPU size: 31556 bytes. 1 Pages. 31556.000 bytes per page (96.301% utilization).
+[2023.05.28-02.03.45:787][390]LogStaticMesh:   Streaming: GPU size: 33256296 bytes. 255 Pages (249 with relative encoding). 130416.844 bytes per page (99.500% utilization).
+[2023.05.28-02.03.45:787][390]LogStaticMesh:   Page data disk size: 25940812 bytes. Fixup data size: 192800 bytes.
+[2023.05.28-02.03.45:787][390]LogStaticMesh:   Total GPU size: 33287852 bytes, Total disk size: 26133612 bytes.
+[2023.05.28-02.03.45:794][390]LogStaticMesh: Encode [4.51s]
+[2023.05.28-02.03.45:794][390]LogStaticMesh: Nanite build [58.82s]
+
+[2023.05.28-02.03.46:040][390]LogStaticMesh: Built static mesh [83.49s] /Game/Megascans/3D_Assets/Limestone_Rocks_ubxaajpda/S_Limestone_Rocks_ubxaajpda_high.S_Limestone_Rocks_ubxaajpda_high
+[2023.05.28-02.03.46:853][390]LogStaticMesh: WritePages:
+[2023.05.28-02.03.46:853][390]LogStaticMesh:   Root: GPU size: 32464 bytes. 1 Pages. 32464.000 bytes per page (99.072% utilization).
+[2023.05.28-02.03.46:853][390]LogStaticMesh:   Streaming: GPU size: 33307884 bytes. 256 Pages (250 with relative encoding). 130108.922 bytes per page (99.265% utilization).
+[2023.05.28-02.03.46:853][390]LogStaticMesh:   Page data disk size: 25986668 bytes. Fixup data size: 192968 bytes.
+[2023.05.28-02.03.46:853][390]LogStaticMesh:   Total GPU size: 33340348 bytes, Total disk size: 26179636 bytes.
+[2023.05.28-02.03.46:860][390]LogStaticMesh: Encode [4.58s]
+[2023.05.28-02.03.46:860][390]LogStaticMesh: Nanite build [59.07s]
+
+[2023.05.28-02.03.48:096][390]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-595ms], ThreadID=16140
+[2023.05.28-04.31.16:500][390]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-8848382ms], ThreadID=16140
+[2023.05.28-04.31.16:694][390]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Quarry_Cliff_uchpbg3fa/T_QuarryCliff_uchpbg3fa_8K_DpR.T_QuarryCliff_uchpbg3fa_8K_DpR (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-04.31.16:765][390]LogStaticMesh: Built static mesh [8934.11s] /Game/Megascans/3D_Assets/Limestone_Rocks_ubvsaf3da/S_Limestone_Rocks_ubvsaf3da_high.S_Limestone_Rocks_ubvsaf3da_high
+[2023.05.28-04.31.17:766][390]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3aba5f49-b24c-4201-8a99-01ef82a80304}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=8851606.00
+[2023.05.28-04.31.17:766][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.28-04.31.17:768][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: libcurl info message cache 0 (Too old connection (8903 seconds idle), disconnect it)
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: libcurl info message cache 2 (Closing connection 0)
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: 0000094D0A8DF000: libcurl info message cache 5 (Closing connection 1)
+[2023.05.28-04.31.18:281][391]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-04.31.18:966][393]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Limestone_Rocks_ub3sddsda/T_Limestone_Rocks_ub3sddsda_8K_D.T_Limestone_Rocks_ub3sddsda_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2023.05.28-04.31.19:214][394]LogStaticMesh: Reduce [313.89s]
+[2023.05.28-04.31.19:990][396]LogStaticMesh: Fallback 0/1 [0.78s], num tris: 16711
+[2023.05.28-04.31.21:405][401]LogStaticMesh: Reduce [314.32s]
+[2023.05.28-04.31.22:372][403]LogStaticMesh: ConstrainClusters:
+[2023.05.28-04.31.22:372][403]LogStaticMesh:   Input: 32567 Clusters, 4099998 Triangles and 2653360 Vertices
+[2023.05.28-04.31.22:372][403]LogStaticMesh:   Output without splits: 32567 Clusters, 4099998 Triangles and 2769627 Vertices
+[2023.05.28-04.31.22:372][403]LogStaticMesh:   Output with splits: 32567 Clusters, 4099998 Triangles and 2769627 Vertices
+[2023.05.28-04.31.22:487][404]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 32567, Slow Path Clusters: 0, 1 Material: 32567, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-04.31.22:962][405]LogMeshUtilities: Finished distance field build in 1.2s - 42x42x7 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 666247 triangles, S_Limestone_Rocks_ubxaajpda_high
+[2023.05.28-04.31.23:066][406]LogStaticMesh: Fallback 0/1 [1.66s], num tris: 32561
+[2023.05.28-04.31.23:447][407]LogStaticMesh: Reduce [314.37s]
+[2023.05.28-04.31.23:567][407]LogStaticMesh: Reduce [316.48s]
+[2023.05.28-04.31.24:011][408]LogStaticMesh: WritePages:
+[2023.05.28-04.31.24:011][408]LogStaticMesh:   Root: GPU size: 32664 bytes. 1 Pages. 32664.000 bytes per page (99.683% utilization).
+[2023.05.28-04.31.24:011][408]LogStaticMesh:   Streaming: GPU size: 33333336 bytes. 256 Pages (246 with relative encoding). 130208.344 bytes per page (99.341% utilization).
+[2023.05.28-04.31.24:011][408]LogStaticMesh:   Page data disk size: 25962560 bytes. Fixup data size: 194112 bytes.
+[2023.05.28-04.31.24:011][408]LogStaticMesh:   Total GPU size: 33366000 bytes, Total disk size: 26156672 bytes.
+[2023.05.28-04.31.24:016][408]LogStaticMesh: Encode [4.03s]
+[2023.05.28-04.31.24:016][408]LogStaticMesh: Nanite build [318.70s]
+
+[2023.05.28-04.31.24:243][409]LogStaticMesh: Built static mesh [8933.88s] /Game/Megascans/3D_Assets/Quarry_Cliff_ubhubhyda/S_Quarry_Cliff_ubhubhyda_high.S_Quarry_Cliff_ubhubhyda_high
+[2023.05.28-04.31.24:282][409]LogStaticMesh: Fallback 0/1 [0.83s], num tris: 15145
+[2023.05.28-04.31.24:484][410]LogStaticMesh: Fallback 0/1 [0.92s], num tris: 18579
+[2023.05.28-04.31.24:773][411]LogStaticMesh: ConstrainClusters:
+[2023.05.28-04.31.24:773][411]LogStaticMesh:   Input: 32565 Clusters, 4100636 Triangles and 2683899 Vertices
+[2023.05.28-04.31.24:773][411]LogStaticMesh:   Output without splits: 32565 Clusters, 4100636 Triangles and 2794863 Vertices
+[2023.05.28-04.31.24:773][411]LogStaticMesh:   Output with splits: 32565 Clusters, 4100636 Triangles and 2794863 Vertices
+[2023.05.28-04.31.24:885][411]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 32565, Slow Path Clusters: 0, 1 Material: 32565, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-04.31.25:446][413]LogStaticMesh: ConstrainClusters:
+[2023.05.28-04.31.25:446][413]LogStaticMesh:   Input: 32510 Clusters, 4093100 Triangles and 2653648 Vertices
+[2023.05.28-04.31.25:446][413]LogStaticMesh:   Output without splits: 32510 Clusters, 4093100 Triangles and 2770094 Vertices
+[2023.05.28-04.31.25:446][413]LogStaticMesh:   Output with splits: 32510 Clusters, 4093100 Triangles and 2770094 Vertices
+[2023.05.28-04.31.25:527][413]LogStaticMesh: ConstrainClusters:
+[2023.05.28-04.31.25:527][413]LogStaticMesh:   Input: 32530 Clusters, 4095468 Triangles and 2677039 Vertices
+[2023.05.28-04.31.25:527][413]LogStaticMesh:   Output without splits: 32530 Clusters, 4095468 Triangles and 2790255 Vertices
+[2023.05.28-04.31.25:527][413]LogStaticMesh:   Output with splits: 32530 Clusters, 4095468 Triangles and 2790255 Vertices
+[2023.05.28-04.31.25:541][413]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 32510, Slow Path Clusters: 0, 1 Material: 32510, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-04.31.25:622][413]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 32530, Slow Path Clusters: 0, 1 Material: 32530, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-04.31.25:910][414]LogStaticMesh: WritePages:
+[2023.05.28-04.31.25:910][414]LogStaticMesh:   Root: GPU size: 31076 bytes. 1 Pages. 31076.000 bytes per page (94.836% utilization).
+[2023.05.28-04.31.25:910][414]LogStaticMesh:   Streaming: GPU size: 33388324 bytes. 256 Pages (247 with relative encoding). 130423.141 bytes per page (99.505% utilization).
+[2023.05.28-04.31.25:910][414]LogStaticMesh:   Page data disk size: 26077068 bytes. Fixup data size: 193192 bytes.
+[2023.05.28-04.31.25:910][414]LogStaticMesh:   Total GPU size: 33419400 bytes, Total disk size: 26270260 bytes.
+[2023.05.28-04.31.25:916][414]LogStaticMesh: Encode [2.85s]
+[2023.05.28-04.31.25:916][414]LogStaticMesh: Nanite build [318.83s]
+
+[2023.05.28-04.31.26:100][415]LogStaticMesh: Built static mesh [8935.73s] /Game/Megascans/3D_Assets/Limestone_Rocks_ub3sddsda/S_Limestone_Rocks_ub3sddsda_high.S_Limestone_Rocks_ub3sddsda_high
+[2023.05.28-04.31.26:911][417]LogStaticMesh: WritePages:
+[2023.05.28-04.31.26:911][417]LogStaticMesh:   Root: GPU size: 31252 bytes. 1 Pages. 31252.000 bytes per page (95.374% utilization).
+[2023.05.28-04.31.26:911][417]LogStaticMesh:   Streaming: GPU size: 33337080 bytes. 256 Pages (250 with relative encoding). 130222.969 bytes per page (99.352% utilization).
+[2023.05.28-04.31.26:911][417]LogStaticMesh:   Page data disk size: 25925364 bytes. Fixup data size: 193232 bytes.
+[2023.05.28-04.31.26:911][417]LogStaticMesh:   Total GPU size: 33368332 bytes, Total disk size: 26118596 bytes.
+[2023.05.28-04.31.26:917][417]LogStaticMesh: Encode [2.64s]
+[2023.05.28-04.31.26:917][417]LogStaticMesh: Nanite build [317.84s]
+
+[2023.05.28-04.31.27:047][417]LogStaticMesh: WritePages:
+[2023.05.28-04.31.27:047][417]LogStaticMesh:   Root: GPU size: 32160 bytes. 1 Pages. 32160.000 bytes per page (98.145% utilization).
+[2023.05.28-04.31.27:047][417]LogStaticMesh:   Streaming: GPU size: 33940192 bytes. 261 Pages (255 with relative encoding). 130039.047 bytes per page (99.212% utilization).
+[2023.05.28-04.31.27:047][417]LogStaticMesh:   Page data disk size: 26570112 bytes. Fixup data size: 193560 bytes.
+[2023.05.28-04.31.27:047][417]LogStaticMesh:   Total GPU size: 33972352 bytes, Total disk size: 26763672 bytes.
+[2023.05.28-04.31.27:053][417]LogStaticMesh: Encode [2.57s]
+[2023.05.28-04.31.27:053][417]LogStaticMesh: Nanite build [319.96s]
+
+[2023.05.28-04.31.27:112][418]LogStaticMesh: Built static mesh [8935.37s] /Game/Megascans/3D_Assets/Quarry_Cliff_uchpbg3fa/S_Quarry_Cliff_uchpbg3fa_high.S_Quarry_Cliff_uchpbg3fa_high
+[2023.05.28-04.31.27:262][418]LogStaticMesh: Built static mesh [8936.90s] /Game/Megascans/3D_Assets/Quarry_Cliff_ubjuddqda/S_Quarry_Cliff_ubjuddqda_high.S_Quarry_Cliff_ubjuddqda_high
+[2023.05.28-04.31.28:253][421]LogStaticMesh: Reduce [309.75s]
+[2023.05.28-04.31.28:882][423]LogStaticMesh: Fallback 0/1 [0.63s], num tris: 14278
+[2023.05.28-04.31.29:923][426]LogStaticMesh: ConstrainClusters:
+[2023.05.28-04.31.29:923][426]LogStaticMesh:   Input: 48801 Clusters, 6144148 Triangles and 4009676 Vertices
+[2023.05.28-04.31.29:923][426]LogStaticMesh:   Output without splits: 48801 Clusters, 6144148 Triangles and 4176980 Vertices
+[2023.05.28-04.31.29:923][426]LogStaticMesh:   Output with splits: 48801 Clusters, 6144148 Triangles and 4176980 Vertices
+[2023.05.28-04.31.30:086][427]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 48801, Slow Path Clusters: 0, 1 Material: 48801, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-04.31.31:480][431]LogMeshUtilities: Finished distance field build in 2.4s - 126x105x126 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 46% occupied, 666047 triangles, S_Quarry_Cliff_ubhubhyda_high
+[2023.05.28-04.31.31:754][432]LogStaticMesh: WritePages:
+[2023.05.28-04.31.31:754][432]LogStaticMesh:   Root: GPU size: 32156 bytes. 1 Pages. 32156.000 bytes per page (98.132% utilization).
+[2023.05.28-04.31.31:754][432]LogStaticMesh:   Streaming: GPU size: 49381740 bytes. 379 Pages (368 with relative encoding). 130294.828 bytes per page (99.407% utilization).
+[2023.05.28-04.31.31:754][432]LogStaticMesh:   Page data disk size: 38406504 bytes. Fixup data size: 289224 bytes.
+[2023.05.28-04.31.31:754][432]LogStaticMesh:   Total GPU size: 49413896 bytes, Total disk size: 38695728 bytes.
+[2023.05.28-04.31.31:762][432]LogStaticMesh: Encode [2.88s]
+[2023.05.28-04.31.31:762][432]LogStaticMesh: Nanite build [313.26s]
+
+[2023.05.28-04.31.31:897][432]LogStaticMesh: Built static mesh [8941.97s] /Game/Megascans/3D_Assets/Quarry_Cliff_ubjxdipda/S_Quarry_Cliff_ubjxdipda_high.S_Quarry_Cliff_ubjxdipda_high
+[2023.05.28-04.31.32:137][433]LogStaticMesh: Reduce [298.62s]
+[2023.05.28-04.31.32:613][434]LogStaticMesh: Fallback 0/1 [0.48s], num tris: 16410
+[2023.05.28-04.31.33:057][436]LogMeshUtilities: Finished distance field build in 1.0s - 98x49x91 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 71% occupied, 666255 triangles, S_Quarry_Cliff_uchpbg3fa_high
+[2023.05.28-04.31.33:286][436]LogStaticMesh: ConstrainClusters:
+[2023.05.28-04.31.33:286][436]LogStaticMesh:   Input: 65077 Clusters, 8192615 Triangles and 5298272 Vertices
+[2023.05.28-04.31.33:286][436]LogStaticMesh:   Output without splits: 65077 Clusters, 8192615 Triangles and 5535110 Vertices
+[2023.05.28-04.31.33:286][436]LogStaticMesh:   Output with splits: 65077 Clusters, 8192615 Triangles and 5535110 Vertices
+[2023.05.28-04.31.33:445][437]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 65077, Slow Path Clusters: 0, 1 Material: 65077, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.28-04.31.34:913][441]LogMeshUtilities: Finished distance field build in 2.1s - 126x70x126 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 71% occupied, 666047 triangles, S_Quarry_Cliff_ubjuddqda_high
+[2023.05.28-04.31.35:087][442]LogStaticMesh: WritePages:
+[2023.05.28-04.31.35:087][442]LogStaticMesh:   Root: GPU size: 31924 bytes. 1 Pages. 31924.000 bytes per page (97.424% utilization).
+[2023.05.28-04.31.35:087][442]LogStaticMesh:   Streaming: GPU size: 65776588 bytes. 504 Pages (493 with relative encoding). 130509.102 bytes per page (99.571% utilization).
+[2023.05.28-04.31.35:087][442]LogStaticMesh:   Page data disk size: 51281252 bytes. Fixup data size: 385536 bytes.
+[2023.05.28-04.31.35:087][442]LogStaticMesh:   Total GPU size: 65808512 bytes, Total disk size: 51666788 bytes.
+[2023.05.28-04.31.35:094][442]LogStaticMesh: Encode [2.48s]
+[2023.05.28-04.31.35:094][442]LogStaticMesh: Nanite build [301.57s]
+
+[2023.05.28-04.31.35:247][442]LogStaticMesh: Built static mesh [8944.94s] /Game/Megascans/3D_Assets/Quarry_Cliff_ubjvbczda/S_Quarry_Cliff_ubjvbczda_high.S_Quarry_Cliff_ubjvbczda_high
+[2023.05.28-04.32.18:304][132]LogHttp: Warning: 0000094D0C56AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.32.18:304][132]LogHttp: Warning: 0000094D0C56AA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.32.18:304][132]LogHttp: Warning: 0000094D0C56AA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.32.18:304][132]LogHttp: Warning: 0000094D0C56AA00: libcurl info message cache 1 (Closing connection 2)
+[2023.05.28-04.32.18:304][132]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-04.33.18:308][312]LogHttp: Warning: 0000094D0C56AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.33.18:308][312]LogHttp: Warning: 0000094D0C56AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.33.18:308][312]LogHttp: Warning: 0000094D0C56AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.33.18:308][312]LogHttp: Warning: 0000094D0C56AF00: libcurl info message cache 1 (Closing connection 3)
+[2023.05.28-04.33.18:308][312]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-04.34.29:310][525]LogHttp: Warning: 0000094D0C56AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.34.29:310][525]LogHttp: Warning: 0000094D0C56AA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.34.29:310][525]LogHttp: Warning: 0000094D0C56AA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.34.29:310][525]LogHttp: Warning: 0000094D0C56AA00: libcurl info message cache 1 (Closing connection 4)
+[2023.05.28-04.34.29:310][525]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-04.35.18:311][672]LogHttp: Warning: 0000094D0C566E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.35.18:311][672]LogHttp: Warning: 0000094D0C566E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.35.18:311][672]LogHttp: Warning: 0000094D0C566E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.35.18:311][672]LogHttp: Warning: 0000094D0C566E00: libcurl info message cache 1 (Closing connection 5)
+[2023.05.28-04.35.18:311][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-04.36.29:314][885]LogHttp: Warning: 0000094D0C563700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.36.29:314][885]LogHttp: Warning: 0000094D0C563700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.36.29:314][885]LogHttp: Warning: 0000094D0C563700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.36.29:314][885]LogHttp: Warning: 0000094D0C563700: libcurl info message cache 1 (Closing connection 6)
+[2023.05.28-04.36.29:314][885]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-04.37.17:811][ 30]LogDerivedDataCache: C:/Users/Aaron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1188 files in 1981 folders with total size 1787 MiB.
+[2023.05.28-04.37.18:315][ 32]LogHttp: Warning: 0000094D0C56AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.37.18:315][ 32]LogHttp: Warning: 0000094D0C56AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.37.18:315][ 32]LogHttp: Warning: 0000094D0C56AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.37.18:315][ 32]LogHttp: Warning: 0000094D0C56AF00: libcurl info message cache 1 (Closing connection 7)
+[2023.05.28-04.37.18:315][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-04.38.18:318][212]LogHttp: Warning: 0000094D0C56B400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.28-04.38.18:318][212]LogHttp: Warning: 0000094D0C56B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.05.28-04.38.18:318][212]LogHttp: Warning: 0000094D0C56B400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.05.28-04.38.18:318][212]LogHttp: Warning: 0000094D0C56B400: libcurl info message cache 1 (Closing connection 8)
+[2023.05.28-04.38.18:318][212]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6C1BFC2-43CE-0F2E-8E7C-D7B5539EDF15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=2100189c41a460acc0c0bab911babbe9%7C4cc8d9e63f3e4fa4a502019bd8d714eb%7Cc295392d-f042-444c-bfb5-c7df811f365a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.28-05.00.23:344][309]LogMaterial: Display: Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material needed to have new flag set bUsedWithNanite !
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: ================================================
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Total job queries 102, among them cache hits 42 (41.18%)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Tracking 35 distinct input hashes that result in 20 distinct outputs (57.14%)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: RAM used: 770.76 KiB of 6.40 GiB budget. Usage: 0.01%
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Shaders Compiled: 35
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Jobs assigned 60, completed 35 (58.33%)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Average time worker was idle: 6942.40 s
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 1.19 s
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 1.26
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.94 s
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.36 jobs/batch
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Average processing rate: 7.08 jobs/sec
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Total thread time: 11.448 s
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Total thread preprocess time: 0.663 s
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Percentage time preprocessing: 5.79%
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Effective parallelization: 2.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.77% of total time (compiled    6 times, average 0.36 sec, max 0.39 sec, min 0.34 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.46% of total time (compiled    6 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.86% of total time (compiled    5 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.19% of total time (compiled    5 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 7.01% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.05.28-05.00.24:669][452]LogShaderCompilers: Display: ================================================
+[2023.05.28-05.01.09:656][781]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2023.05.28-05.01.09:656][781]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=dd34f2a10b0341beadcc1dd6c8335b66.
+[2023.05.28-05.01.09:657][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.28-05.01.09:660][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2023.05.28-05.01.09:661][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material] ([1] browsable assets)...
+[2023.05.28-05.01.09:716][781]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material]
+[2023.05.28-05.01.09:716][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material]
+[2023.05.28-05.01.09:718][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material_Auto3
+[2023.05.28-05.01.09:718][781]LogSavePackage: Moving '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/M_MS_Default_Material_Auto39E64536F4E146B018543FCAE975B2ED1.tmp' to '../../../../../../Users/Aaron/Documents/Unreal Projects/Tutorials/Gamedev.tv/unreal-gamedevtv-action-adventure/ActionAdventure/Saved/Autosaves/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material_Auto3.uasset'
+[2023.05.28-05.01.09:719][781]LogFileHelpers: Auto-saving content packages took 0.059
